@@ -1,0 +1,24 @@
+{
+  "name": "karma-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "chrome-remote-interface": "^0.31.3",
+    "fast-stats": "^0.0.6",
+    "jasmine-reporters": "^2.5.0",
+    "karma": "^6.4.0",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-safari-launcher": "^1.0.0",
+    "karma-tap-reporter": "^0.0.6",
+    "protractor": "^7.0.0"
+  }
+}
